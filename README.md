@@ -1,22 +1,3 @@
-![Hindi Certificate 1](Hindi-L-1.jpeg)
-![Hindi Certificate 2](Hindi-L-2.jpeg)
-![Hindi Certificate 3](Hindi-L-3.jpeg)
-![Hindi Certificate 4](Hindi-L-4.jpeg)
-![Hindi Certificate 5](Hindi-L-5.jpeg)
-
-![Certificate-1](C-1.JPEG)
-![Certificate-2](C-2.JPEG)
-![Certificate-3](C-3.JPEG)
-![Certificate-4](C-4.JPEG)
-![Certificate-5](C-5.JPEG)
-![Certificate-6](C-6.JPEG)
-![Certificate-7](C-7.JPEG)
-![Certificate-8](C-8.JPEG)
-![Certificate-9](C-9.JPEG)
-![Certificate-10](C-10.JPEG)
-![Certificate-11](C-11.JPEG)
-
-
 ![ART-1](ART-1.JPEG).
 ![ART-2](ART-2.JPEG).
 ![ART-3](ART-3.JPEG).
