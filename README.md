@@ -1,4 +1,4 @@
-![1MSH](MSH.JPEG).
+![1MSH](MSH.jpg).
 ![ART-1](ART-1.JPEG).
 ![ART-2](ART-2.JPEG).
 ![ART-3](ART-3.JPEG).
