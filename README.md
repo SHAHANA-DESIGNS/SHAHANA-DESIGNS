@@ -1,22 +1,22 @@
-![1AAMSH](MSH.jpg).*My Resume*
-![1AAMSH-myportfolio](1AAMSH-myportfolio.JPG).*My Portfolio*
-![ART1-1](ART-1.JPEG).
-![ART-2](ART-2.JPEG).
-![ART-3](ART-3.JPEG).
-![ART-4](ART-4.JPEG).
-![ART-5](ART-5.JPEG).
-![ART-6](ART-6.JPEG).
-![ART-7](ART-7.JPEG).
-![ART-8](ART-8.JPEG).
-![ART-9](ART-9.JPEG).
-![ART-10](ART-10.JPEG).
-![ART-11](ART-11.JPEG).
-![ART-12](ART-12.JPEG).
-![ART-13](ART-13.JPEG).
-![ART-14](ART-14.JPEG).
-![ART-15](ART-15.JPEG).
-![Certificate-1](C-1.JPEG)
-![Certificate-2](C-2.JPEG)
+![1AAMSH](MSH.jpg)*My Resume*
+![1AAMSH-myportfolio](1AAMSH-myportfolio.JPG)*My Portfolio*
+![ART1-1](ART-1.JPEG)*Art-1*
+![ART-2](ART-2.JPEG)*Art-2*
+![ART-3](ART-3.JPEG)*Art-3*
+![ART-4](ART-4.JPEG)*Art-4*
+![ART-5](ART-5.JPEG)*Art-5*
+![ART-6](ART-6.JPEG)*Art-6*
+![ART-7](ART-7.JPEG)*Art-7*
+![ART-8](ART-8.JPEG)*Art-8*
+![ART-9](ART-9.JPEG)*Art-9*
+![ART-10](ART-10.JPEG)*Art-10*
+![ART-11](ART-11.JPEG)*Art-11*
+![ART-12](ART-12.JPEG)*Art-12*
+![ART-13](ART-13.JPEG)*Art-13*
+![ART-14](ART-14.JPEG)*Art-14*
+![ART-15](ART-15.JPEG)*Art-15*
+![Certificate-1](C-1.JPEG)*Cert-1*
+![Certificate-2](C-2.JPEG)*Cert-2*
 ![Certificate-3](C-3.JPEG)
 ![Certificate-4](C-4.JPEG)
 ![Certificate-5](C-5.JPEG)
