@@ -1,5 +1,6 @@
-![1AAMSH](MSH.jpg)*My Resume*
-![1AAMSH-myportfolio](1AAMSH-myportfolio.JPG)*My Portfolio*
+*My Resume*![1AAMSH](MSH.jpg)\
+
+*My Portfolio*![1AAMSH-myportfolio](1AAMSH-myportfolio.JPG)
 ![ART1-1](ART-1.JPEG)*Art-1*
 ![ART-2](ART-2.JPEG)*Art-2*
 ![ART-3](ART-3.JPEG)*Art-3*
