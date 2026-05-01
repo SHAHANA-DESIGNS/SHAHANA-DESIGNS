@@ -2,9 +2,7 @@
 <br>
 ![1AAMSH](MSH.jpg)
 <br>
-<p>
-<a href="https://tinyurl.com/MSSHAHANA">*My Portfolio*</a>
-</p>
+<a href="https://tinyurl.com/MSSHAHANA">My Portfolio</a>
 <br>
 ![1AAMSH-myportfolio](1AAMSH-myportfolio.JPG)
 <br>
