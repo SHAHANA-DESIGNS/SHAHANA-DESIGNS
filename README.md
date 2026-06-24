@@ -1,6 +1,6 @@
 *My Resume*
 <br>
-![1AAMSH](MSH-RESUME.jpg)
+![1AAMSH](MSH-RESUME.pdf)
 <br>
 <a href="https://tinyurl.com/MSSHAHANA">My Portfolio</a>
 <br>
