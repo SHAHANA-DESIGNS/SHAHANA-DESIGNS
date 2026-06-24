@@ -4,7 +4,7 @@
 <br>
 <a href="https://tinyurl.com/MSSHAHANA">My Portfolio</a>
 <br>
-![1AAMSH-myportfolio](1-SHAHANA-QRC.png)
+![1AAMSH-myportfolio](2-SHAHANA-QRC.jpeg)
 <br>
 ![ART1-1](ART-1.JPEG)*Art-1*
 ![ART-2](ART-2.JPEG)*Art-2*
