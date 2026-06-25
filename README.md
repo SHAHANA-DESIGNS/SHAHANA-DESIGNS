@@ -1,40 +1,42 @@
-*My Resume*
-<br>
-![1AAMSH](MSH-RESUME.jpg)
-<br>
-<a href="https://tinyurl.com/MSSHAHANA">My Portfolio</a>
-<br>
-![1AAMSH-myportfolio](2-SHAHANA-QRC.jpeg)
-<br>
-![ART1-1](ART-1.JPEG)*Art-1*
-![ART-2](ART-2.JPEG)*Art-2*
-![ART-3](ART-3.JPEG)*Art-3*
-![ART-4](ART-4.JPEG)*Art-4*
-![ART-5](ART-5.JPEG)*Art-5*
-![ART-6](ART-6.JPEG)*Art-6*
-![ART-7](ART-7.JPEG)*Art-7*
-![ART-8](ART-8.JPEG)*Art-8*
-![ART-9](ART-9.JPEG)*Art-9*
-![ART-10](ART-10.JPEG)*Art-10*
-![ART-11](ART-11.JPEG)*Art-11*
-![ART-12](ART-12.JPEG)*Art-12*
-![ART-13](ART-13.JPEG)*Art-13*
-![ART-14](ART-14.JPEG)*Art-14*
-![ART-15](ART-15.JPEG)*Art-15*
-![Certificate-1](C-1.JPEG)*Cert-1*
-![Certificate-2](C-2.JPEG)*Cert-2*
-![Certificate-3](C-3.JPEG)
-![Certificate-4](C-4.JPEG)
-![Certificate-5](C-5.JPEG)
-![Certificate-6](C-6.JPEG)
-![Certificate-7](C-7.JPEG)
-![Certificate-8](C-8.JPEG)
-![Certificate-9](C-9.JPEG)
-![Certificate-10](C-10.JPEG)
-![Certificate-11](C-11.JPEG)
-![Certificate-12](C-12.JPEG)
-![Hindi-1](Hindi-L-1.jpeg)
-![Hindi-2](Hindi-L-2.jpeg)
-![Hindi-3](Hindi-L-3.jpeg)
-![Hindi-4](Hindi-L-4.jpeg)
-![Hindi-5](Hindi-L-5.jpeg)
+# Hi, I'm Shahana! 👋
+
+Welcome to my creative portfolio. I am a designer specializing in digital arts and professional visual assets. Below you can explore my curated artwork collections and verified professional certifications.
+
+---
+
+## 🎨 Featured Artworks
+
+A collection of my digital designs, illustrations, and creative concepts.
+
+| Preview | Project Name | Description | Link |
+| :---: | :--- | :--- | :---: |
+| 🖼️ | **Art Collection 1** | Main concept designs (ART-1 to ART-5) | [View Gallery](https://github.com) |
+| 🖼️ | **Art Collection 2** | Abstract and landscape layouts (ART-6 to ART-10) | [View Gallery](https://github.com) |
+| 🖼️ | **Art Collection 3** | Advanced structural compositions (ART-11 to ART-15) | [View Gallery](https://github.com) |
+
+---
+
+## 📜 Professional Certifications
+
+A catalog of my academic achievements, courses, and technical verifications.
+
+* 🥇 **Technical Design Verification** — *[View Certificate](https://github.com)*
+* 🥈 **Creative Composition Achievement** — *[View Certificate](https://github.com)*
+* 🥉 **Advanced Visual Design Module** — *[View Certificate](https://github.com)*
+
+---
+
+## 🛠️ Tools & Technologies
+
+<code><img src="https://githubusercontent.com" alt="photoshop" width="40" height="40"/></code>
+<code><img src="https://githubusercontent.com" alt="illustrator" width="40" height="40"/></code>
+<code><img src="https://githubusercontent.com" alt="figma" width="40" height="40"/></code>
+<code><img src="https://githubusercontent.com" alt="html5" width="40" height="40"/></code>
+
+---
+
+## 📬 Connect with Me
+
+* 💼 **LinkedIn:** [Your-Profile-Link-Here]
+* 📧 **Email:** [Your-Email-Here]
+* 🌐 **Personal Website:** [Your-Website-Link-Here]
