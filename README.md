@@ -8,7 +8,7 @@ Welcome to my public studio index. This space collects my original illustrations
 
 ## 📑 Quick Navigation & Links
 * 📄 **[View Full Resume](MSH-RESUME.jpg)**
-* 🌐 **[Explore My Portfolio Website](https://tinyurl.com/MSSHAHANA)**
+* 🌐 **[Explore My Portfolio Website](https://tinyurl.com)**
 * 📲 **Scan Portfolio QR Code:**
   <br><img src="2-SHAHANA-QRC.jpeg" width="180" alt="Portfolio QR Code" />
 
@@ -17,8 +17,8 @@ Welcome to my public studio index. This space collects my original illustrations
 ## 🎨 Original Artworks (15 Pieces)
 *Graphite, ink, and watercolour working notebooks.*
 
-<details>
-<summary><b>🖼️ Click to expand the Artwork Gallery</b></summary>
+<details open>
+<summary><b>🖼️ Artwork Gallery</b></summary>
 <br>
 
 | **Art-1 to Art-3** | **Art-4 to Art-6** |
@@ -46,16 +46,16 @@ Welcome to my public studio index. This space collects my original illustrations
 ## 📜 Accredited Certifications (12 Credentials)
 *Scanned at original scale covering language teaching, design, and education.*
 
-<details>
-<summary><b>🎓 Click to view verified credentials</b></summary>
+<details open>
+<summary><b>🎓 Verified Credentials</b></summary>
 <br>
 
 | Column 1 | Column 2 | Column 3 |
 | :---: | :---: | :---: |
 | ![_](C-1.JPEG)<br>*Cert-1* | ![_](C-2.JPEG)<br>*Cert-2* | ![_](C-3.JPEG)<br>*Cert-3* |
-| ![_](C-4.JPEG) | ![_](C-5.JPEG) | ![_](C-6.JPEG) |
-| ![_](C-7.JPEG) | ![_](C-8.JPEG) | ![_](C-9.JPEG) |
-| ![_](C-10.JPEG) | ![_](C-11.JPEG) | ![_](C-12.JPEG) |
+| ![_](C-4.JPEG)<br>*Cert-4* | ![_](C-5.JPEG)<br>*Cert-5* | ![_](C-6.JPEG)<br>*Cert-6* |
+| ![_](C-7.JPEG)<br>*Cert-7* | ![_](C-8.JPEG)<br>*Cert-8* | ![_](C-9.JPEG)<br>*Cert-9* |
+| ![_](C-10.JPEG)<br>*Cert-10* | ![_](C-11.JPEG)<br>*Cert-11* | ![_](C-12.JPEG)<br>*Cert-12* |
 
 </details>
 
@@ -64,15 +64,14 @@ Welcome to my public studio index. This space collects my original illustrations
 ## ✍️ The Hindi Primer
 *A five-part handwritten worksheet set designed for adult beginners.*
 
-<details>
-<summary><b>📝 Click to open Hindi lessons</b></summary>
+<details open>
+<summary><b>📝 Hindi Lessons</b></summary>
 <br>
 
-* 📄 **Lesson 1:** ![Hindi-1](Hindi-L-1.jpeg)
-* 📄 **Lesson 2:** ![Hindi-2](Hindi-L-2.jpeg)
-* 📄 **Lesson 3:** ![Hindi-3](Hindi-L-3.jpeg)
-* 📄 **Lesson 4:** ![Hindi-4](Hindi-L-4.jpeg)
-* 📄 **Lesson 5:** ![Hindi-5](Hindi-L-5.jpeg)
+| Lesson 1 & 2 | Lesson 3 & 4 | Lesson 5 |
+| :---: | :---: | :---: |
+| ![_](Hindi-L-1.jpeg)<br>*Lesson 1* | ![_](Hindi-L-3.jpeg)<br>*Lesson 3* | ![_](Hindi-L-5.jpeg)<br>*Lesson 5* |
+| ![_](Hindi-L-2.jpeg)<br>*Lesson 2* | ![_](Hindi-L-4.jpeg)<br>*Lesson 4* | |
 
 </details>
 
