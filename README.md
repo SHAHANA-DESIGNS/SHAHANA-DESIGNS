@@ -1,42 +1,84 @@
-# Hi, I'm Shahana! 👋
+# Shahana — Studio of Ink, Art & Letters 🖋️
 
-Welcome to my creative portfolio. I am a designer specializing in digital arts and professional visual assets. Below you can explore my curated artwork collections and verified professional certifications.
+> *A practice of quiet ink, careful hands and patient letters. Est. 2018.*
 
----
-
-## 🎨 Featured Artworks
-
-A collection of my digital designs, illustrations, and creative concepts.
-
-| Preview | Project Name | Description | Link |
-| :---: | :--- | :--- | :---: |
-| 🖼️ | **Art Collection 1** | Main concept designs (ART-1 to ART-5) | [View Gallery](https://github.com) |
-| 🖼️ | **Art Collection 2** | Abstract and landscape layouts (ART-6 to ART-10) | [View Gallery](https://github.com) |
-| 🖼️ | **Art Collection 3** | Advanced structural compositions (ART-11 to ART-15) | [View Gallery](https://github.com) |
+Welcome to my public studio index. This space collects my original illustrations, handwritten language worksheets, and accredited teaching credentials.
 
 ---
 
-## 📜 Professional Certifications
-
-A catalog of my academic achievements, courses, and technical verifications.
-
-* 🥇 **Technical Design Verification** — *[View Certificate](https://github.com)*
-* 🥈 **Creative Composition Achievement** — *[View Certificate](https://github.com)*
-* 🥉 **Advanced Visual Design Module** — *[View Certificate](https://github.com)*
+## 📑 Quick Navigation & Links
+* 📄 **[View Full Resume](MSH-RESUME.jpg)**
+* 🌐 **[Explore My Portfolio Website](https://tinyurl.com/MSSHAHANA)**
+* 📲 **Scan Portfolio QR Code:**
+  <br><img src="2-SHAHANA-QRC.jpeg" width="180" alt="Portfolio QR Code" />
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🎨 Original Artworks (15 Pieces)
+*Graphite, ink, and watercolour working notebooks.*
 
-<code><img src="https://githubusercontent.com" alt="photoshop" width="40" height="40"/></code>
-<code><img src="https://githubusercontent.com" alt="illustrator" width="40" height="40"/></code>
-<code><img src="https://githubusercontent.com" alt="figma" width="40" height="40"/></code>
-<code><img src="https://githubusercontent.com" alt="html5" width="40" height="40"/></code>
+<details>
+<summary><b>🖼️ Click to expand the Artwork Gallery</b></summary>
+<br>
+
+| **Art-1 to Art-3** | **Art-4 to Art-6** |
+| :---: | :---: |
+| ![_](ART-1.JPEG)<br>*Art-1* | ![_](ART-4.JPEG)<br>*Art-4* |
+| ![_](ART-2.JPEG)<br>*Art-2* | ![_](ART-5.JPEG)<br>*Art-5* |
+| ![_](ART-3.JPEG)<br>*Art-3* | ![_](ART-6.JPEG)<br>*Art-6* |
+
+| **Art-7 to Art-9** | **Art-10 to Art-12** |
+| :---: | :---: |
+| ![_](ART-7.JPEG)<br>*Art-7* | ![_](ART-10.JPEG)<br>*Art-10* |
+| ![_](ART-8.JPEG)<br>*Art-8* | ![_](ART-11.JPEG)<br>*Art-11* |
+| ![_](ART-9.JPEG)<br>*Art-9* | ![_](ART-12.JPEG)<br>*Art-12* |
+
+| **Art-13 to Art-15** |
+| :---: |
+| ![_](ART-13.JPEG)<br>*Art-13* |
+| ![_](ART-14.JPEG)<br>*Art-14* |
+| ![_](ART-15.JPEG)<br>*Art-15* |
+
+</details>
 
 ---
 
-## 📬 Connect with Me
+## 📜 Accredited Certifications (12 Credentials)
+*Scanned at original scale covering language teaching, design, and education.*
 
-* 💼 **LinkedIn:** [Your-Profile-Link-Here]
-* 📧 **Email:** [Your-Email-Here]
-* 🌐 **Personal Website:** [Your-Website-Link-Here]
+<details>
+<summary><b>🎓 Click to view verified credentials</b></summary>
+<br>
+
+| Column 1 | Column 2 | Column 3 |
+| :---: | :---: | :---: |
+| ![_](C-1.JPEG)<br>*Cert-1* | ![_](C-2.JPEG)<br>*Cert-2* | ![_](C-3.JPEG)<br>*Cert-3* |
+| ![_](C-4.JPEG) | ![_](C-5.JPEG) | ![_](C-6.JPEG) |
+| ![_](C-7.JPEG) | ![_](C-8.JPEG) | ![_](C-9.JPEG) |
+| ![_](C-10.JPEG) | ![_](C-11.JPEG) | ![_](C-12.JPEG) |
+
+</details>
+
+---
+
+## ✍️ The Hindi Primer
+*A five-part handwritten worksheet set designed for adult beginners.*
+
+<details>
+<summary><b>📝 Click to open Hindi lessons</b></summary>
+<br>
+
+* 📄 **Lesson 1:** ![Hindi-1](Hindi-L-1.jpeg)
+* 📄 **Lesson 2:** ![Hindi-2](Hindi-L-2.jpeg)
+* 📄 **Lesson 3:** ![Hindi-3](Hindi-L-3.jpeg)
+* 📄 **Lesson 4:** ![Hindi-4](Hindi-L-4.jpeg)
+* 📄 **Lesson 5:** ![Hindi-5](Hindi-L-5.jpeg)
+
+</details>
+
+---
+
+## 📬 Studio Contact & Commissions
+I am open for selected illustration commissions and one-on-one Hindi tutoring sessions. 
+* 📧 **Enquiries:** [Email the Studio](mailto:your-email@example.com)
+* 🏢 *Made with care, paper and a little bit of code.*
