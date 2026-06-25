@@ -8,7 +8,7 @@ Welcome to my public studio index. This space collects my original illustrations
 
 ## 📑 Quick Navigation & Links
 * 📄 **[View Full Resume](MSH-RESUME.jpg)**
-* 🌐 **[Explore My Portfolio Website](https://tinyurl.com)**
+* 🌐 **[Explore My Portfolio Website](https://tinyurl.com/msshahana)**
 * 📲 **Scan Portfolio QR Code:**
   <br><img src="2-SHAHANA-QRC.jpeg" width="180" alt="Portfolio QR Code" />
 
