@@ -1,0 +1,13 @@
+[build]
+  publish = "."
+
+# Ensure clean URLs work perfectly regardless of Netlify dashboard configuration
+[[redirects]]
+  from = "/arts"
+  to = "/arts.html"
+  status = 200
+
+[[redirects]]
+  from = "/certifications"
+  to = "/certifications.html"
+  status = 200

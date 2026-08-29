@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Certifications — Shahana Studio</title>
+  <meta name="description" content="Twelve accredited certifications behind the Shahana studio's teaching and design practice — scanned at original size." />
+  <link rel="icon" href="logo.png" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+<header class="site-header">
+  <div class="container">
+    <a class='brand' href='/'>
+      <img class="brand-mark" src="logo.png" alt="Shahana studio mark" />
+      <div>
+        <div class="brand-name">Shahana</div>
+        <div class="brand-tag">Studio · Ink &amp; Letters</div>
+      </div>
+    </a>
+    <nav class="primary">
+      <a href='/'>Studio</a>
+      <a href='/arts'>Arts</a>
+      <a class='active' href='/certifications'>Certifications</a>
+      <a href='/#article'>Article</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="container section">
+    <header class="section-head">
+      <div>
+        <div class="section-eyebrow">Credentials · Verified</div>
+        <h1 class="section-title">The <em>Certifications</em></h1>
+      </div>
+      <span class="section-link">12 credentials · accredited</span>
+    </header>
+
+    <div class="gallery-intro">
+      <p>
+        Twelve certificates earned across language teaching, design and
+        continuing education. Each is shown here as the original scanned
+        document. Click any certificate to enlarge.
+      </p>
+    </div>
+
+    <div class="gallery">
+      <figure class="gallery-item"><img src="C-1.JPEG" alt="Certification no. 01" loading="lazy" /><figcaption class="gallery-caption"><strong>Certificate · 01</strong><span>Accredited</span></figcaption></figure>
+      <figure class="gallery-item"><img src="C-2.JPEG" alt="Certification no. 02" loading="lazy" /><figcaption class="gallery-caption"><strong>Certificate · 02</strong><span>Accredited</span></figcaption></figure>
+      <figure class="gallery-item"><img src="C-3.JPEG" alt="Certification no. 03" loading="lazy" /><figcaption class="gallery-caption"><strong>Certificate · 03</strong><span>Accredited</span></figcaption></figure>
+      <figure class="gallery-item"><img src="C-4.JPEG" alt="Certification no. 04" loading="lazy" /><figcaption class="gallery-caption"><strong>Certificate · 04</strong><span>Accredited</span></figcaption></figure>
+      <figure class="gallery-item"><img src="C-5.JPEG" alt="Certification no. 05" loading="lazy" /><figcaption class="gallery-caption"><strong>Certificate · 05</strong><span>Accredited</span></figcaption></figure>
+      <figure class="gallery-item"><img src="C-6.JPEG" alt="Certification no. 06" loading="lazy" /><figcaption class="gallery-caption"><strong>Certificate · 06</strong><span>Accredited</span></figcaption></figure>
+      <figure class="gallery-item"><img src="C-7.JPEG" alt="Certification no. 07" loading="lazy" /><figcaption class="gallery-caption"><strong>Certificate · 07</strong><span>Accredited</span></figcaption></figure>
+      <figure class="gallery-item"><img src="C-8.JPEG" alt="Certification no. 08" loading="lazy" /><figcaption class="gallery-caption"><strong>Certificate · 08</strong><span>Accredited</span></figcaption></figure>
+      <figure class="gallery-item"><img src="C-9.JPEG" alt="Certification no. 09" loading="lazy" /><figcaption class="gallery-caption"><strong>Certificate · 09</strong><span>Accredited</span></figcaption></figure>
+      <figure class="gallery-item"><img src="C-10.JPEG" alt="Certification no. 10" loading="lazy" /><figcaption class="gallery-caption"><strong>Certificate · 10</strong><span>Accredited</span></figcaption></figure>
+      <figure class="gallery-item"><img src="C-11.JPEG" alt="Certification no. 11" loading="lazy" /><figcaption class="gallery-caption"><strong>Certificate · 11</strong><span>Accredited</span></figcaption></figure>
+      <figure class="gallery-item"><img src="C-12.JPEG" alt="Certification no. 12" loading="lazy" /><figcaption class="gallery-caption"><strong>Certificate · 12</strong><span>Accredited</span></figcaption></figure>
+    </div>
+  </section>
+</main>
+
+<div class="lightbox" id="lightbox" aria-hidden="true">
+  <button class="lightbox-close" type="button">Close ✕</button>
+  <img alt="" />
+</div>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-col">
+      <h4>The Studio</h4>
+      <p>A small portfolio of ink, illustration and language teaching, kept by Shahana. Made with care, paper and a little bit of code.</p>
+    </div>
+    <div class="footer-col">
+      <h4>Pages</h4>
+      <a href='/'>Studio</a>
+      <a href='/arts'>Arts</a>
+      <a href='/certifications'>Certifications</a>
+      <a href='/#article'>Journal</a>
+    </div>
+    <div class="footer-col">
+      <h4>Elsewhere</h4>
+      <a href="#">Commissions</a>
+      <a href="#">Hindi tutoring</a>
+      <a href="#">Email the studio</a>
+    </div>
+  </div>
+  <div class="container footer-bottom">
+    <span>© 2026 Shahana Studio</span>
+    <span>Hand-set in Fraunces &amp; Cormorant</span>
+  </div>
+</footer>
+
+<script>
+  (function () {
+    var lb = document.getElementById('lightbox');
+    var lbImg = lb.querySelector('img');
+    var btn = lb.querySelector('.lightbox-close');
+    document.querySelectorAll('.gallery-item img').forEach(function (img) {
+      img.addEventListener('click', function () {
+        lbImg.src = img.src;
+        lbImg.alt = img.alt;
+        lb.classList.add('open');
+        lb.setAttribute('aria-hidden', 'false');
+      });
+    });
+    function close() {
+      lb.classList.remove('open');
+      lb.setAttribute('aria-hidden', 'true');
+      lbImg.src = '';
+    }
+    lb.addEventListener('click', function (e) { if (e.target === lb || e.target === btn) close(); });
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape') close(); });
+  })();
+</script>
+
+</body>
+</html>
