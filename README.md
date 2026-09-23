@@ -12,7 +12,7 @@ Welcome to my public studio index. This space collects my original illustrations
 * 📲 **Scan Portfolio QR Code:**
   <br><img src="2nd-Qrc.png" width="240" alt="Portfolio QR Code" />
 
----
+--- 
 
 ## 🎨 Original Artworks (15 Pieces)
 *Graphite, ink, and watercolour working notebooks.*
