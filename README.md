@@ -33,7 +33,7 @@ Welcome to my public studio index. This space collects my original illustrations
 | ![_](ART-8.JPEG)<br>*Art-8* | ![_](ART-11.JPEG)<br>*Art-11* |
 | ![_](ART-9.JPEG)<br>*Art-9* | ![_](ART-12.JPEG)<br>*Art-12* |
 
-| **Art-13 to Art-15** |
+| **Art-13 to Art-15** | 
 | :---: |
 | ![_](ART-13.JPEG)<br>*Art-13* |
 | ![_](ART-14.JPEG)<br>*Art-14* |
